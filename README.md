@@ -5,8 +5,8 @@ A Velocity plugin that manages a whitelist via. a Discord bot
 
 1. Create a [discord application](https://discord.com/developers/applications)
 2. Create a bot
-  + This guide assumes you know how to invite the bot
-  + Ensure the bot has the SLASH_COMMANDS permission
+    + This guide assumes you know how to invite the bot
+    + Ensure the bot has the SLASH_COMMANDS permission
 3. Copy and Paste the token into the `config.toml` file
   + This file is generated once the plugin is run once
 4. Start the server again
